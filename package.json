@@ -1,0 +1,18 @@
+{
+  "name": "1.4_Assignment_Analysis",
+  "version": "1.0.0",
+  "homepage": "http://aimeelynnramirez.github.io/1.4_Assignment_Analysis",
+  "description": "1.4_Assignment_Analysis for Passionate Approaches",
+  "main": "index.js",
+  "scripts": {
+    "start": "polymer serve"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "author": "Aimee",
+  "license": "ISC",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.1.1"
+  }
+}
